@@ -1,2 +1,5 @@
 127.0.0.1 analyticsengine.s3.amazonaws.com
 127.0.0.1 advertising-api-eu.amazon.com
+127.0.0.1 afs.googlesyndication.com
+127.0.0.1 adm.hotjar.com
+127.0.0.1 identify.hotjar.com

@@ -3,3 +3,9 @@
 127.0.0.1 afs.googlesyndication.com
 127.0.0.1 adm.hotjar.com
 127.0.0.1 identify.hotjar.com
+127.0.0.1 api.mouseflow.com
+127.0.0.1 tools.mouseflow.com
+127.0.0.1 cdn-test.mouseflow.com
+127.0.0.1 claritybt.freshmarketer.com
+127.0.0.1 w1.luckyorange.com
+127.0.0.1 api.bugsnag.com
